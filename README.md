@@ -9,7 +9,7 @@ A top-down 3d game that relies on a single screen to play on. The maze is able t
 
 ### Credit
 Created through the collaboration of:
-Stephen Ndubueze
-Carlos Funes
-Jonah Taylor
-KAra Davis
+- Stephen Ndubueze (programmer)
+- Carlos Funes (programmer)
+- Jonah Taylor (programmer, animator)
+- Kara Davis (designer, artist)
