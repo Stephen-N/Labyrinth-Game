@@ -7,7 +7,7 @@ You along with 3 other players, spawn in a labyrinth with one goal in mind, to d
 ## Game Concept
 A top-down 3d game that relies on a single screen to play on. The maze is able to be transversed in about 15-20 seconds.
 
-### Credit
+### Credits
 Created through the collaboration of:
 - Stephen Ndubueze (programmer)
 - Carlos Funes (programmer)
